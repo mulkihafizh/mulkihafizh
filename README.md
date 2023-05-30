@@ -1,6 +1,6 @@
 - 👋 Hi, I’m <a href="https://www.instagram.com/mulkihafizh/">@mulkihafizh</a>
 - 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning Laravel
+- 🌱 I’m currently learning Flutter
 - 📫 How to reach me email: mlkihfzh123@gmail.com
 
 <!---
