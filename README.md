@@ -1,6 +1,6 @@
 # Hi there, I'm <a href="https://www.instagram.com/mulkihafizh/">@mulkihafizh</a> 👋
 
-I am a **Fullstack Web & Mobile Developer** with specialized expertise in the **Vue.js ecosystem** and enterprise-grade **React/Node.js architecture**.
+I am a **Software Engineer** with specialized expertise in the **Vue.js ecosystem** and enterprise-grade **React/Node.js architecture**.
 
 - 🏢 I’m currently working as a **Fullstack Developer (React & Fastify)** at **Toyota Motor Manufacturing Indonesia**.
 - 👀 I’m interested in **High-performance Backend Systems** and **Scalable Web Applications**.
@@ -34,7 +34,7 @@ I am a **Fullstack Web & Mobile Developer** with specialized expertise in the **
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-- 🌱 I’m currently expanding my knowledge in **DevOps (Docker & CI/CD)**.
+- 🌱 I’m currently expanding my knowledge in *GO**.
 - 📫 How to reach me:
     - **Email:** mlkihfzh123@gmail.com
     - **Website:** [www.mulkihafizh.com](http://www.mulkihafizh.com)
