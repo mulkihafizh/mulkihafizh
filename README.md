@@ -1,9 +1,10 @@
 # Hi there, I'm <a href="https://www.instagram.com/mulkihafizh/">@mulkihafizh</a> 👋
 
-I am a **Software Engineer** with specialized expertise in the **Vue.js ecosystem** and enterprise-grade **React/Node.js architecture**.
+I am a **Software Engineer** with specialized expertise in the **Vue.js ecosystem** and enterprise-grade **React, Go, and Node.js architecture**.
 
-- 🏢 I’m currently working as a **Fullstack Developer (React & Fastify)** at **Toyota Motor Manufacturing Indonesia**.
-- 👀 I’m interested in **High-performance Backend Systems** and **Scalable Web Applications**.
+- 🏢 I’m currently working as a **Software Engineer** at **OCBC NISP**.
+- 👀 I’m interested in **High-performance Backend Systems**, **Scalable Web Applications**, and **AI-Driven Architecture**.
+
 ### 🛠️ My Tech Stack
 
 **Frontend**
@@ -19,6 +20,7 @@ I am a **Software Engineer** with specialized expertise in the **Vue.js ecosyste
 
 **Backend**
 <p>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" alt="Fastify" />
   <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma" />
@@ -34,7 +36,7 @@ I am a **Software Engineer** with specialized expertise in the **Vue.js ecosyste
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-- 🌱 I’m currently expanding my knowledge in *GO**.
+- 🌱 I’m currently expanding my knowledge in **Data Engineering & AI Pipelines**.
 - 📫 How to reach me:
     - **Email:** mlkihfzh123@gmail.com
     - **Website:** [www.mulkihafizh.com](http://www.mulkihafizh.com)
